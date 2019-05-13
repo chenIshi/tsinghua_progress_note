@@ -7,4 +7,4 @@ Weekly progress on tsinghua master program.
 1. [04/24 學習 Rust](/beforeEntrance/0424.md)
 2. [05/01 了解 Netbrick 並部屬](/beforeEntrance/0501.md)
 3. [05/08 用虛擬機部屬 Netbrick](/beforeEntrance/0508.md)
-4. [05/15](/beforeEntrance/0515.md)
+4. [05/15 Trace Netbrick 安裝流程 & 研究 Netbrick NF 寫法](/beforeEntrance/0515.md)
