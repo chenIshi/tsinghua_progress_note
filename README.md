@@ -8,3 +8,5 @@ Weekly progress on tsinghua master program.
 2. [05/01 了解 Netbrick 並部屬](/beforeEntrance/0501.md)
 3. [05/08 用虛擬機部屬 Netbrick](/beforeEntrance/0508.md)
 4. [05/15 Trace Netbrick 安裝流程 & 研究 Netbrick NF 寫法](/beforeEntrance/0515.md)
+5. [05/22 嘗試解決 Netbrick Build Issue](/beforeEntrance/0522.md)
+6. [05/29 Rust C++ foreign function interface](/beforeEntrance/0529.md)
