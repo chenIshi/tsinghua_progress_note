@@ -10,3 +10,4 @@ Weekly progress on tsinghua master program.
 4. [05/15 Trace Netbrick 安裝流程 & 研究 Netbrick NF 寫法](/beforeEntrance/0515.md)
 5. [05/22 嘗試解決 Netbrick Build Issue](/beforeEntrance/0522.md)
 6. [05/29 Rust C++ foreign function interface](/beforeEntrance/0529.md)
+7. [06/05 嘗試他人為 Netbrick 運行發布的 patch](/beforeEntrance/0605.md)
