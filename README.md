@@ -11,3 +11,4 @@ Weekly progress on tsinghua master program.
 5. [05/22 嘗試解決 Netbrick Build Issue](/beforeEntrance/0522.md)
 6. [05/29 Rust C++ foreign function interface](/beforeEntrance/0529.md)
 7. [06/05 嘗試他人為 Netbrick 運行發布的 patch](/beforeEntrance/0605.md)
+8. [07/03 熟悉 Rust 語法](/beforeEntrance/0703.md)
